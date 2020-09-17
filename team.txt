@@ -1,6 +1,4 @@
-<<<<<<< HEAD
+
 Yuemeng
-=======
 Haotong Ge
 Xiao Tan
->>>>>>> 7a041ec9b9387ffa2316b38d2ca5fb3381e027b1
